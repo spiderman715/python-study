@@ -1,5 +1,6 @@
 # Requests
 
+
 [`requests` 模块](https://requests.readthedocs.io/en/latest/) 主要用于发送请求获取响应，该模块有很多的替代模块，比如 [`urllib` 模块](https://docs.python.org/3/library/urllib.html) 或 [`httpx` 模块](https://www.python-httpx.org/)等。
 
 文档地址：[Requests Quickstart](https://requests.readthedocs.io/en/latest/user/quickstart/)
